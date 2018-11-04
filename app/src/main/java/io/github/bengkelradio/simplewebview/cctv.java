@@ -48,7 +48,7 @@ public class cctv extends AppCompatActivity {
                 cctvView.getSettings().setJavaScriptEnabled(true);
                 cctvView.getSettings().setRenderPriority(WebSettings.RenderPriority.HIGH);
                 cctvView.getSettings().setCacheMode(WebSettings.LOAD_NO_CACHE);
-                cctvView.loadUrl("http://167.205.48.30:11111");
+                cctvView.loadUrl("http://cctv.bengkrad.com");
                 cctvView.setWebViewClient(new WebViewClient () {
                     public void onReceivedHttpAuthRequest(WebView view, HttpAuthHandler handler,
                                                           String host, String realm) {

@@ -78,7 +78,7 @@ public class MainActivity extends AppCompatActivity {
                 this);
         alertDialogBuilder.setTitle("About Us");
         alertDialogBuilder
-                .setMessage("Bengkel Radio IMT\n\nSekretariat IMT Signum ITB\nLTRGM ITB")
+                .setMessage("Bengkel Radio\nSekretariat IMT Signum ITB\nLab Telekomunikasi Radio, dan Gelombang Mikro\nInstitut Teknologi Bandung")
                 .setIcon(R.mipmap.ic_launcher);
         AlertDialog alertDialog = alertDialogBuilder.create();
         alertDialog.show();
@@ -89,7 +89,7 @@ public class MainActivity extends AppCompatActivity {
                 this);
         alertDialogBuilder.setTitle("N/A");
         alertDialogBuilder
-                .setMessage("This feature is not yet integrated, please come back later :D")
+                .setMessage("This feature is not integrated yet, please come back later :D")
                 .setIcon(R.mipmap.ic_launcher);
         AlertDialog alertDialog = alertDialogBuilder.create();
         alertDialog.show();
