@@ -18,13 +18,13 @@
         android:gravity="center"
         android:paddingBottom="20dp"
         android:paddingTop="20dp"
-        android:text="Timeline"
+        android:text="Sekre RFID"
         android:textSize="20sp"
         android:textStyle="bold"
         />
 
     <WebView
-        android:id="@+id/calView"
+        android:id="@+id/rfidView"
         android:layout_width="361dp"
         android:layout_height="473dp"
         android:layout_below="@+id/textView4"

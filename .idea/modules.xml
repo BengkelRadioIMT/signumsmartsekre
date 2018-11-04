@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/simpleWebView.iml" filepath="$PROJECT_DIR$/simpleWebView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/signumsmartsekre.iml" filepath="$PROJECT_DIR$/signumsmartsekre.iml" />
     </modules>
   </component>
 </project>

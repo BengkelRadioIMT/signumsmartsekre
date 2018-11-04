@@ -53,7 +53,7 @@
         android:layout_below="@+id/imageButton4"
         android:layout_toLeftOf="@+id/imageButton7"
         android:layout_toStartOf="@+id/imageButton7"
-        app:srcCompat="@drawable/aboutus" />
+        app:srcCompat="@drawable/rfid" />
 
     <ImageButton
         android:id="@+id/imageButton7"
@@ -64,7 +64,7 @@
         android:layout_below="@+id/imageButton4"
         android:layout_marginEnd="31dp"
         android:layout_marginRight="31dp"
-        app:srcCompat="@drawable/exiticon" />
+        app:srcCompat="@drawable/aboutus" />
 
 
     <TextView
